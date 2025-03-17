@@ -1,0 +1,11 @@
+1. Leia e armazene o número N que se deseja multiplicar pelo 9. #Entrada
+2. Subtrair N menos 1 e armazenar como primeiro digito n1. #Processamento
+3. Subtrair 10 menos N e armazenar como segundo digito n2. #Processamento
+4. Realize a expressão (N1 * 10) + N2 e armazene o resultado como R
+   #Processanmento
+5. Apresente R e encerre #Saida
+
+
+
+     Solução dissertativa
+
